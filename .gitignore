@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.idea/
+.vscode/
+data/
+*.rar
+*.zip
+*.pth
+*.pt
+
