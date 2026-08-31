@@ -1,12 +1,47 @@
+# Python
 __pycache__/
 *.py[cod]
+*.pyo
+
+# Virtual environments
 .venv/
+venv/
+env/
+.env
+.conda/
+
+# Test and tooling caches
 .pytest_cache/
-.idea/
-.vscode/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# Data, checkpoints, and runtime output
 data/
+runs/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.npz
+*.npy
+
+# Local course source and machine-specific files
+d2l-zh-master/
+docs/superpowers/
 *.rar
 *.zip
-*.pth
-*.pt
+*.log
+*.tmp
+
+# Editors and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
 

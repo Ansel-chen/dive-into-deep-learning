@@ -1,2 +1,4 @@
-"""Attention-mechanism examples."""
+"""Attention and Transformer component exercises."""
+
+
 

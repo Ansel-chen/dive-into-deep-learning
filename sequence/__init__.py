@@ -1,2 +1,4 @@
-"""Sequence-model data preparation examples."""
+"""Sequence modeling and encoder-decoder exercises."""
+
+
 

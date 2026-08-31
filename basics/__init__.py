@@ -1,2 +1,4 @@
-"""Foundational models implemented while studying Dive into Deep Learning."""
+"""Foundational models and optimization exercises."""
+
+
 

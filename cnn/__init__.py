@@ -1,2 +1,4 @@
-"""Convolutional-network examples."""
+"""Convolution, pooling, and CNN architecture exercises."""
+
+
 

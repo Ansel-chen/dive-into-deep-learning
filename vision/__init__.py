@@ -1,2 +1,4 @@
-"""Computer-vision data and training examples."""
+"""Computer-vision augmentation and transfer-learning exercises."""
+
+
 

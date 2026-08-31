@@ -1,2 +1,12 @@
+# Core runtime
+numpy>=1.24
+matplotlib>=3.7
+Pillow>=9.5
 torch>=2.2
 torchvision>=0.17
+
+# Development and verification
+pytest>=7.4
+
+
+
